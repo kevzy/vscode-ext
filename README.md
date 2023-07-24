@@ -24,13 +24,6 @@
 
 The extension is stripped out of Browser capabilities and published as an integration point for community to continue utilizing GPT models in Sidebar conversations or responses in editor, favorites, personalization and more.
 
-## Forks and continuation of the original project
-
-> Feel free to contribute here.
-
-1. Continued by [ChatGPT - Genie AI](https://marketplace.visualstudio.com/items?itemName=genieai.chatgpt-vscode)
-2. Forked by @Christopher-Hayes: [ChatGPT Reborn](https://marketplace.visualstudio.com/items?itemName=chris-hayes.chatgpt-reborn)
-
 ## Features
 
 - ➕ Use GPT-4, GPT-3.5, GPT3 or Codex models using your OpenAI API Key
